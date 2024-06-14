@@ -1,0 +1,23 @@
+.pronounce{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pronounce_text-box{
+
+}
+
+.pronounce_title{
+    font-size: 3.5rem;
+    margin-bottom: 15px;
+}
+
+.pronounce_text{
+    font-size: 2rem;
+    color: var(--primary-color);
+}
+
+.pronounce_audio-box{
+
+}

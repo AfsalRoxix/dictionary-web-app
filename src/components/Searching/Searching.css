@@ -1,0 +1,10 @@
+
+.searching h1{
+    text-align: center;
+    font-size: 5rem;
+    color:var(--dark-color);
+}
+
+.dark .searching h1{
+    color: var(--light-color-3);
+}
